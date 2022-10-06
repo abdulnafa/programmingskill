@@ -1,0 +1,24 @@
+.feature{
+    background-color: #dfe6e9;
+    text-align: center;
+   margin-top: -64px;
+    z-index: 99999;
+    
+}
+
+.container-fluid{
+    overflow: hidden;
+    }
+
+    i{
+        color: white;
+        font-size: 25px;
+        margin-right: 10px;
+    }
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+    .icon{
+        height: 200px;
+    }
